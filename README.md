@@ -43,5 +43,5 @@ Insight: Offers insights into the diverse range of sectors leveraging data-drive
 Description: This KPI computes the average salary for male and female survey respondents separately.
 Insight: Highlights potential gender disparities in earnings within the data professional community.
 
-# Outcome
+## Outcome
 The "Data Professional Survey Breakdown" dashboard provides stakeholders with actionable insights into the data professional landscape, enabling informed decision-making related to talent acquisition, workforce management, skills development, and diversity initiatives. By facilitating a deeper understanding of industry dynamics and trends, the dashboard contributes to the advancement and optimization of the data profession as a whole.
